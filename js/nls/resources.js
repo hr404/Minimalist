@@ -38,7 +38,7 @@ define({
             },
             "popup": {
                 "title": "Info",
-                "instructions": "Select a feature on the map to view details."
+                "instructions": "Click or tap a location on the map to view more details."
             }
 
         },
