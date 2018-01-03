@@ -37,7 +37,7 @@ define({
                 "error": "Update the web map description with the details to display in this section."
             },
             "popup": {
-                "title": "Info",
+                "title": "HRSD Construction Projects",
                 "instructions": "Click or tap a location on the map to view more details."
             }
 
